@@ -1,0 +1,6 @@
+names:
+- Bercak Coklat -Helminthosporium oryzae-
+- Hawar Daun Bakteri -Xanthomonas oryzae-
+- Bercak Daun -Ustilaginoidea virens-
+- Health
+- None

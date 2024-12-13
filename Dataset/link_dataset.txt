@@ -1,0 +1,5 @@
+- Potato disease:https://universe.roboflow.com/corrosion-l4cqs/potato-diseases-zezg6/dataset/4
+
+- Rice leaf disease:https://universe.roboflow.com/corrosion-l4cqs/rice-leafe-disease/dataset/4  
+
+- Tomato disease:https://universe.roboflow.com/corrosion-l4cqs/tomato-leaf-disease-ssoha-hkzwn/dataset/2 
